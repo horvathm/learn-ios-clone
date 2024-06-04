@@ -1,0 +1,39 @@
+[submodule "swift-algorithms"]
+	path = swift-algorithms
+	url = https://github.com/apple/swift-algorithms.git
+[submodule "swift-async-algorithms"]
+	path = swift-async-algorithms
+	url = https://github.com/apple/swift-async-algorithms.git
+[submodule "swift"]
+	path = swift
+	url = https://github.com/apple/swift.git
+[submodule "swift-docc"]
+	path = swift-docc
+	url = https://github.com/apple/swift-docc.git
+[submodule "swift-corelibs-foundation"]
+	path = swift-corelibs-foundation
+	url = https://github.com/apple/swift-corelibs-foundation.git
+[submodule "swift-3-api-guidelines-review"]
+	path = swift-3-api-guidelines-review
+	url = https://github.com/apple/swift-3-api-guidelines-review.git
+[submodule "swift-foundation"]
+	path = swift-foundation
+	url = https://github.com/apple/swift-foundation.git
+[submodule "swift-log"]
+	path = swift-log
+	url = https://github.com/apple/swift-log.git
+[submodule "swift-collections"]
+	path = swift-collections
+	url = https://github.com/apple/swift-collections.git
+[submodule "swift-nio"]
+	path = swift-nio
+	url = https://github.com/apple/swift-nio.git
+[submodule "swift-crypto"]
+	path = swift-crypto
+	url = https://github.com/apple/swift-crypto.git
+[submodule "swift-package-manager"]
+	path = swift-package-manager
+	url = https://github.com/apple/swift-package-manager.git
+[submodule "swift-testing"]
+	path = swift-testing
+	url = https://github.com/apple/swift-testing.git
